@@ -7,7 +7,7 @@ You can run it in your system by just downloading Game, Main and Img file. You w
 <img src="https://github.com/abhi-511/Tic_Tac_Toe/blob/main/S1.png" alt="alt text" height=300 width="300"/>         <img src="https://github.com/abhi-511/Tic_Tac_Toe/blob/main/S2.png" alt="drawing"  height=300 width="300"/>         <img src="https://github.com/abhi-511/Tic_Tac_Toe/blob/main/S3.png" alt="drawing"  height=300 width="300"/>
 
 
-#Please do ⭐ the repository, if you like this.😊
+Please do ⭐ the repository, if you like this.😊
 
 
 ### Connect with me:
